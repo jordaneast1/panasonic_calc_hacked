@@ -1,5 +1,5 @@
 # panasonic_calc_hacked
-Hacked version of the panasonic calculator that allows for out-of-spec curved screens.
+Hacked version of the panasonic Throw Distance Calculator that allows for out-of-spec curved screens.
 
 DISCLAIMERS 
 - this was altered using Claude code. I can't read minimized javascript very well
