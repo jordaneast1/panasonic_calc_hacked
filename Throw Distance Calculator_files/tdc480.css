@@ -1,0 +1,85 @@
+#simple_mode input[type="number"]{
+	font-size: 16px;
+	font-size: 1.6rem;
+}
+
+.super{
+	vertical-align: 10%;
+}
+
+#btn_simple_calc,
+#btn_simple_reset{
+	width: 128px;
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+
+.simple_th_space{
+	width: 28px;
+}
+
+.hide_on_tdc{
+	display: none;
+}
+
+#simple_scrn_diag_m,
+#simple_scrn_hei_m,
+#simple_scrn_wid_m,
+#simple_minL_m,
+#simple_maxL_m, 
+#simple_short_throw_m,
+#simple_scrn_diag_inch,
+#simple_scrn_hei_inch,
+#simple_scrn_wid_inch,
+#simple_minL_inch,
+#simple_maxL_inch,
+#simple_short_throw_inch{
+	width: 68px;
+}
+
+#simple_scrn_diag_feet,
+#simple_scrn_hei_feet,
+#simple_scrn_wid_feet,
+#simple_minL_feet,
+#simple_maxL_feet,
+#simple_short_throw_feet{
+	width: 52px;
+}
+
+.simple_td_str_space{
+	text-align: right;
+	padding-right: 5px;
+}
+
+#simple_results textarea{
+	font-size: 15px;
+	font-size: 1.5rem;
+	line-height: 18px;
+	line-height: 1.8rem;
+}
+
+#simple_results h3{
+	padding: 4px 0 0;
+}
+
+#simple_select_button{
+	width: 216px;
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+
+#result_note{
+	width: 288px;
+}
+
+#result_list{
+	width: 288px;
+}
+
+#simple_size_discription ul{
+	margin: 0 8px;
+	padding: 0;
+	font-size: 13px;
+	font-size: 1.3rem;
+	font-weight: normal;
+}

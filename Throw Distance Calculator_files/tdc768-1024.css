@@ -1,0 +1,62 @@
+.float_clear {
+	clear: both;
+}
+
+#simple_calclation{
+	float: left;
+	width: 50%;
+}
+
+#user_input{
+	margin: 12px 4px 0 8px;
+}
+
+#user_input_area fieldset{
+	height: 116px;
+	margin: 0 0 20px;
+	padding: 26px 0 22px;
+}
+
+#user_input input{
+	width: 80px;
+}
+
+#simple_results{
+	background: none;
+}
+
+#simple_results h3{
+	margin: 4px 0 6px;
+	line-height: 0;
+}
+
+#result_note{
+	width: 48%;
+	margin: 9px 8px 0 4px;
+	padding: 160px 0;
+	border: none;
+	background: #efefef;
+}
+
+#result_list{
+	width: 48%;
+	margin: 9px 0 0;
+	padding: 4px 0 1px 4px;
+	border: none;
+	background: #efefef;
+}
+
+.simple_select_button{
+	width: 300px;
+	margin: 17px 0 0;
+	padding: 8px;
+}
+
+#result_button_clear{
+	clear: both;
+}
+
+#simple_size_relation{
+	margin: 0 auto;
+	text-align: center;
+}

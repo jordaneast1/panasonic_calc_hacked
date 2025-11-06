@@ -1,0 +1,52 @@
+header, #simple_mode{
+	width: 1075px;
+}
+
+.tab{
+	position: 530px;
+}
+
+#simple_calclation{
+	width: 33.3%;
+}
+
+#btn_simple_calc,
+#btn_simple_reset{
+	margin: 0 0 20px 0;
+}
+
+#simple_results{
+	float: left;
+	width: 33.3%;
+}
+
+#simple_results h3{
+	margin: 3px 0 3px;
+	line-height: 0;
+}
+
+#result_note{
+	width: 98%;
+}
+
+#result_list{
+	width: 98%;
+	margin: 9px 0 0 4px;
+}
+
+#result_button_clear{
+	clear: none;
+}
+
+#simple_size_relation{
+	text-align: center;
+}
+
+#simple_size_discription{
+	margin: 0 auto;
+	text-align: left;
+}
+
+.float_clear{
+	clear: both;
+}

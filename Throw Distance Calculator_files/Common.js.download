@@ -1,0 +1,1 @@
+var SIMULATION_TYPE = { Flat: "0", VerticalAngle: "1", HorizontalAngle: "2", VerticalCurved: "3", HorizontalCurved: "4" }, PJ_PLACE = { Desktop: 0, Ceiling: 1, PortClock: 2, PortUnClock: 3 }, PJ_LIMIT_X = 230, PJ_LIMIT_Y = 170, PJ_LIMIT_Z = 680, ROUNDING_TYPE = { string: 0, number: 1 };
